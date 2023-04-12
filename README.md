@@ -11,3 +11,5 @@ express: npm i express
 express typescript: npm i --save-dev @types/express
 nodemon: npm install --save-dev nodemon
 ts-node: npm install -D ts-node
+ESLint: npm i -D eslint
+ESLint: npx eslint --init
