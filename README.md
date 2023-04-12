@@ -9,3 +9,5 @@ typescript: install --save-dev typescript
 typescript config file: npx tsc --init
 express: npm i express
 express typescript: npm i --save-dev @types/express
+nodemon: npm install --save-dev nodemon
+ts-node: npm install -D ts-node
